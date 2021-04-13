@@ -1,1 +1,1 @@
-EDA Analysis of IBM dataset w.r.t Attrition
+EDA of IBM dataset w.r.t Attrition
